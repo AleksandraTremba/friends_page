@@ -723,3 +723,111 @@ hr.solid{
     margin-left: 10px;
     cursor: pointer;
 }
+.close-button{
+    background: #8255ef;
+    border: 0;
+    outline: 0;
+    padding: 6px 10px;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.modal{
+    max-width: 50ch;
+    top:100px; 
+    left:33%; 
+    width:820px; 
+    position:absolute; 
+    z-index:41;
+    padding:30px; 
+}
+
+.modal ul li button{
+    background: #999999;
+    border: 0;
+    outline: 0;
+    padding: 6px 10px;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.modal ul li button:focus {
+    background-color: #626262;
+}
+
+.open-button2{
+    background: #8255ef;
+    border: 0;
+    outline: 0;
+    padding: 6px 10px;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.close-button2{
+    background: #8255ef;
+    border: 0;
+    outline: 0;
+    padding: 6px 10px;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.modal2{
+    max-width: 50ch;
+    top:100px; 
+    left:33%; 
+    width:820px; 
+    position:absolute; 
+    z-index:41;
+    padding:30px; 
+}
+
+.modal2 ul li button{
+    background: #999999;
+    border: 0;
+    outline: 0;
+    padding: 6px 10px;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.modal2 ul li button:focus {
+    background-color: #626262;
+  }
+
+.dropdown input{
+    border: 0;
+    background-color: #e0dddd;
+    font-size: 16px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.pd-right input{
+    border: 0;
+    background-color: #8255ef;
+    color: white;
+}
+.friends-container a{
+    text-decoration: none;
+    color: #414141;
+}
